@@ -1,4 +1,4 @@
-<img width="1440" height="1043" alt="grafo_original" src="https://github.com/user-attachments/assets/55ed715d-74a8-4874-9d2a-8f6ac9c1f66c" /># Projeto ConectaUDF: minha rede social com grafos
+# Projeto ConectaUDF: minha rede social com grafos
 
 **Estudante:** Breno **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
