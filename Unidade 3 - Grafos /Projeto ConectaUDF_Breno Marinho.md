@@ -138,6 +138,7 @@ print(f"Densidade: {densidade:.2%}")
 
 **Saída esperada:** Breno com 6 conexões, Ana e Felipe com 3, os demais com 4; 7 usuários; 14 amizades; densidade de 66,67%.
 
+- https://colab.research.google.com/drive/1zLRtVh89SH1p7Z-2qxac6F-U4Iqoesvz#scrollTo=cNg_pQ3HcOyW
 
 ### Entenda o código
 
