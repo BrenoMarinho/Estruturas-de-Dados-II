@@ -4,12 +4,11 @@
 
 ## Sobre o projeto
 
-Este projeto foi desenvolvido para a disciplina de Estruturas de Dados II,
-com o objetivo de aplicar os conceitos de grafos.
+Este projeto foi desenvolvido para a disciplina de Estruturas de Dados II, com o objetivo de aplicar os conceitos de grafos.
 
 ## Desenvolvimento
 
-Aqui serão apresentadas as etapas de desenvolvimento do projeto.
+Serão apresentadas as etapas de desenvolvimento do projeto.
 
 ## Conclusão
 
