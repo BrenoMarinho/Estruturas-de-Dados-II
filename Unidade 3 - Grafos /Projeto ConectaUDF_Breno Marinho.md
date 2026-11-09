@@ -47,9 +47,7 @@ As amizades são (14 no total):
 
 ## 4. Desenho do grafo
 
-Desenhe um círculo para cada usuário, com o **Breno no centro**, e uma linha para cada amizade da lista acima. Se preferir gerar o desenho pelo computador, use o código opcional da seção 8.
-
-*(Insira aqui a imagem do seu grafo.)*
+<img width="1440" height="1043" alt="grafo_original" src="https://github.com/user-attachments/assets/7a963747-d642-467f-a197-4678d0002b87" />
 
 ## 5. Passo a passo: calcule o grau
 
@@ -106,7 +104,7 @@ A rede tem **muitas** das conexões possíveis: mais da metade das amizades que 
 
 ## 8. Passo a passo: represente o grafo em Python
 
-A lista de adjacência registra, para cada usuário, os nomes de seus amigos. Digite o código em Python (por exemplo, no Google Colab).
+A lista de adjacência registra, para cada usuário, os nomes de seus amigos. Executável no Google Colab.
 
 ```python
 rede = {
@@ -139,8 +137,6 @@ print(f"Densidade: {densidade:.2%}")
 ```
 
 **Saída esperada:** Breno com 6 conexões, Ana e Felipe com 3, os demais com 4; 7 usuários; 14 amizades; densidade de 66,67%.
-
-<img width="1440" height="1043" alt="grafo_original" src="https://github.com/user-attachments/assets/7a963747-d642-467f-a197-4678d0002b87" />
 
 
 ### Entenda o código
@@ -329,7 +325,7 @@ densidade = (2 * arestas) / (n * (n - 1))
 print(f"Densidade: {densidade:.2%}")
 ```
 
-- **Link do Google Colab:** *(cole aqui o link do seu notebook)*
+- https://colab.research.google.com/drive/1zLRtVh89SH1p7Z-2qxac6F-U4Iqoesvz#scrollTo=cNg_pQ3HcOyW
 
 ## 12. Pergunta de reflexão
 
