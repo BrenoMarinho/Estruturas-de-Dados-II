@@ -1,6 +1,6 @@
 # Projeto ConectaUDF: minha rede social com grafos
 
-**Estudante:** Breno Silva Marinho **Disciplina:** Estrututa de Dados II 
+**Estudante:** Breno Silva Marinho **Disciplina:** Estrutura de Dados II 
 
 ## 1. O desafio
 
