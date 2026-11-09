@@ -1,4 +1,4 @@
-# Projeto ConectaUDF: minha rede social com grafos
+<img width="1440" height="1043" alt="grafo_original" src="https://github.com/user-attachments/assets/55ed715d-74a8-4874-9d2a-8f6ac9c1f66c" /># Projeto ConectaUDF: minha rede social com grafos
 
 **Estudante:** Breno **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
@@ -139,6 +139,9 @@ print(f"Densidade: {densidade:.2%}")
 ```
 
 **Saída esperada:** Breno com 6 conexões, Ana e Felipe com 3, os demais com 4; 7 usuários; 14 amizades; densidade de 66,67%.
+
+<img width="1440" height="1043" alt="grafo_original" src="https://github.com/user-attachments/assets/7a963747-d642-467f-a197-4678d0002b87" />
+
 
 ### Entenda o código
 
