@@ -1,6 +1,6 @@
 # Projeto ConectaUDF: minha rede social com grafos
 
-**Estudante:** Breno **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
+**Estudante:** Breno Silva Marinho **Disciplina:** Estrututa de Dados II 
 
 ## 1. O desafio
 
